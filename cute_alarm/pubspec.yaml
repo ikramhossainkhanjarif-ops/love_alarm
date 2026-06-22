@@ -1,0 +1,54 @@
+name: romantic_alarm
+description: A beautiful pink-and-pastel themed romantic alarm clock app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_bloc: ^8.1.5
+  equatable: ^2.0.5
+
+  # Local storage
+  shared_preferences: ^2.2.3
+
+  # Native platform bridging (alarms, exact scheduling, boot receiver)
+  # We talk to Android natively via MethodChannel; no extra alarm plugin needed.
+
+  # UI / animations
+  google_fonts: ^6.2.1
+  lottie: ^3.1.2
+  intl: ^0.19.0
+
+  # In-app audio preview (sound picker "tap to preview" button).
+  # Note: the actual alarm-ringing sound playback does NOT use this —
+  # that's handled natively by AlarmRingingService.kt so it keeps playing
+  # even if the Flutter engine isn't running. This package is only for
+  # letting the user preview a tone while browsing options in-app.
+  audioplayers: ^6.0.0
+
+  # IDs
+  uuid: ^4.4.0
+
+  # Icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.11
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/sounds/
+    - assets/data/

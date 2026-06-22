@@ -1,0 +1,802 @@
+[
+  {
+    "id": "builtin_001",
+    "text": "Good morning, my love, your heart is the warmest place I have ever called home. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_002",
+    "text": "Rise and shine, my love, you are my favorite hello and my hardest goodbye. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_003",
+    "text": "Hello, beautiful soul, you are proof that dreams really do come true. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_004",
+    "text": "Wake up, beautiful, I am thankful for you in ways I am still learning to say. My heart is always yours."
+  },
+  {
+    "id": "builtin_005",
+    "text": "Rise and shine, my love, your kindness makes the whole world a little softer. You make my heart so happy."
+  },
+  {
+    "id": "builtin_006",
+    "text": "Hey there, gorgeous, your eyes hold more warmth than the morning sun. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_007",
+    "text": "Good morning, my love, every day with you feels like a gift I never want to return. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_008",
+    "text": "Good morning, sunshine, your hugs feel like they were made just for me. My heart is always yours."
+  },
+  {
+    "id": "builtin_009",
+    "text": "Wake up, my love, I treasure every little thing that makes you, you. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_010",
+    "text": "Good morning, sunshine, your love feels like sunshine even on cloudy days. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_011",
+    "text": "Morning, my darling, I treasure every little thing that makes you, you. My heart is always yours."
+  },
+  {
+    "id": "builtin_012",
+    "text": "Wake up, my love, you are my favorite hello and my hardest goodbye. You are my favorite forever."
+  },
+  {
+    "id": "builtin_013",
+    "text": "Rise and shine, sweetheart, I am endlessly grateful that our paths crossed. You are my favorite forever."
+  },
+  {
+    "id": "builtin_014",
+    "text": "Rise and shine, sweetheart, I cherish every little moment we spend together. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_015",
+    "text": "Rise and shine, my love, I love the way your eyes light up when you laugh. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_016",
+    "text": "Hey there, gorgeous, being with you feels like home, no matter where we are. You are my favorite forever."
+  },
+  {
+    "id": "builtin_017",
+    "text": "Rise and shine, sweetheart, your presence alone makes everything feel okay. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_018",
+    "text": "Morning, my darling, I fall for you a little more with every passing day. You make my heart so happy."
+  },
+  {
+    "id": "builtin_019",
+    "text": "Rise and shine, my love, your hugs feel like they were made just for me. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_020",
+    "text": "Hey there, gorgeous, I fall for you a little more with every passing day. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_021",
+    "text": "Good morning, my love, I never knew mornings could feel this sweet until you. You make my heart so happy."
+  },
+  {
+    "id": "builtin_022",
+    "text": "Good morning, my heart, your smile is the first sunrise I want to see every day. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_023",
+    "text": "Rise and shine, sweetheart, your presence alone makes everything feel okay. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_024",
+    "text": "Good morning, sunshine, I fell asleep thinking of you and woke up smiling. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_025",
+    "text": "Rise and shine, sweetheart, you are the calm in my storm and the spark in my spirit. You make my heart so happy."
+  },
+  {
+    "id": "builtin_026",
+    "text": "Hello, beautiful soul, you make me want to be a better person every day. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_027",
+    "text": "Hello, beautiful soul, you make ordinary mornings feel like magic. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_028",
+    "text": "Morning, my darling, my heart still skips a beat whenever I think of you. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_029",
+    "text": "Wake up, beautiful, my heart still skips a beat whenever I think of you. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_030",
+    "text": "Wake up, my love, every day with you feels like a gift I never want to return. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_031",
+    "text": "Good morning, sunshine, you are my favorite person to share quiet moments with. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_032",
+    "text": "Hey there, gorgeous, your eyes hold more warmth than the morning sun. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_033",
+    "text": "Good morning, sunshine, your eyes hold more warmth than the morning sun. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_034",
+    "text": "Wake up, my love, you are the reason my smile reaches all the way to my eyes. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_035",
+    "text": "Good morning, my love, your support means more to me than words can say. You make my heart so happy."
+  },
+  {
+    "id": "builtin_036",
+    "text": "Morning, my darling, I never knew mornings could feel this sweet until you. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_037",
+    "text": "Wake up, beautiful, you are the love song I never get tired of hearing. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_038",
+    "text": "Hey there, gorgeous, you are my today, my tomorrow, and all my someday. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_039",
+    "text": "Good morning, sunshine, I fell asleep thinking of you and woke up smiling. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_040",
+    "text": "Wake up, beautiful, your heart is the warmest place I have ever called home. My heart is always yours."
+  },
+  {
+    "id": "builtin_041",
+    "text": "Rise and shine, my love, you make my world brighter just by being in it. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_042",
+    "text": "Good morning, sunshine, your laugh is my favorite sound in the whole world. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_043",
+    "text": "Wake up, beautiful, every memory with you is one I hold close to my heart. My heart is always yours."
+  },
+  {
+    "id": "builtin_044",
+    "text": "Rise and shine, my love, you are the best part of my every single day. You are my favorite forever."
+  },
+  {
+    "id": "builtin_045",
+    "text": "Rise and shine, sweetheart, I am endlessly grateful that our paths crossed. My heart is always yours."
+  },
+  {
+    "id": "builtin_046",
+    "text": "Hello, beautiful soul, your love makes the impossible feel within reach. My heart is always yours."
+  },
+  {
+    "id": "builtin_047",
+    "text": "Morning, my darling, your hugs feel like they were made just for me. You are my favorite forever."
+  },
+  {
+    "id": "builtin_048",
+    "text": "Good morning, sunshine, your presence alone makes everything feel okay. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_049",
+    "text": "Wake up, beautiful, you make even the hardest days feel a little lighter. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_050",
+    "text": "Morning, my darling, you are my favorite person to share quiet moments with. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_051",
+    "text": "Good morning, my heart, I cherish every little moment we spend together. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_052",
+    "text": "Rise and shine, my love, your love feels like sunshine even on cloudy days. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_053",
+    "text": "Rise and shine, my love, your eyes hold more warmth than the morning sun. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_054",
+    "text": "Good morning, my heart, you are the sunrise after my longest, darkest nights. My heart is always yours."
+  },
+  {
+    "id": "builtin_055",
+    "text": "Wake up, my love, your kindness makes the whole world a little softer. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_056",
+    "text": "Rise and shine, sweetheart, your love feels like it was written in the stars for me. You are my favorite forever."
+  },
+  {
+    "id": "builtin_057",
+    "text": "Rise and shine, my love, I cherish every little moment we spend together. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_058",
+    "text": "Hey there, gorgeous, I could spend forever getting lost in conversations with you. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_059",
+    "text": "Rise and shine, my love, you make even silence feel comfortable and warm. My heart is always yours."
+  },
+  {
+    "id": "builtin_060",
+    "text": "Good morning, my love, your eyes hold more warmth than the morning sun. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_061",
+    "text": "Wake up, beautiful, every day with you feels like a gift I never want to return. You are my favorite forever."
+  },
+  {
+    "id": "builtin_062",
+    "text": "Hey there, gorgeous, you make me want to be a better person every day. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_063",
+    "text": "Morning, my darling, your hugs feel like they were made just for me. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_064",
+    "text": "Good morning, my heart, your love is the warmest blanket on the coldest nights. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_065",
+    "text": "Good morning, my love, you are the love song I never get tired of hearing. You are my favorite forever."
+  },
+  {
+    "id": "builtin_066",
+    "text": "Good morning, my heart, you are the love song I never get tired of hearing. You make my heart so happy."
+  },
+  {
+    "id": "builtin_067",
+    "text": "Good morning, sunshine, your love feels like it was written in the stars for me. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_068",
+    "text": "Wake up, beautiful, you are the missing piece I never knew I needed. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_069",
+    "text": "Hey there, gorgeous, your heart is the warmest place I have ever called home. You make my heart so happy."
+  },
+  {
+    "id": "builtin_070",
+    "text": "Good morning, my heart, I am thankful for you in ways I am still learning to say. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_071",
+    "text": "Hello, beautiful soul, you are the sweetest part of my whole story. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_072",
+    "text": "Wake up, beautiful, you are the kind of beautiful that doesn't fade with time. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_073",
+    "text": "Good morning, sunshine, you are the reason I believe in love again and again. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_074",
+    "text": "Good morning, sunshine, you are the sunrise after my longest, darkest nights. My heart is always yours."
+  },
+  {
+    "id": "builtin_075",
+    "text": "Good morning, sunshine, I fall for you a little more with every passing day. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_076",
+    "text": "Good morning, my love, you make even the hardest days feel a little lighter. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_077",
+    "text": "Good morning, my love, you are the reason my smile reaches all the way to my eyes. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_078",
+    "text": "Rise and shine, sweetheart, your laugh is my favorite sound in the whole world. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_079",
+    "text": "Wake up, beautiful, you are the sunrise after my longest, darkest nights. You are my favorite forever."
+  },
+  {
+    "id": "builtin_080",
+    "text": "Hello, beautiful soul, I cherish every little moment we spend together. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_081",
+    "text": "Hey there, gorgeous, you are the reason I believe in love again and again. My heart is always yours."
+  },
+  {
+    "id": "builtin_082",
+    "text": "Good morning, my heart, you make my world brighter just by being in it. You make my heart so happy."
+  },
+  {
+    "id": "builtin_083",
+    "text": "Rise and shine, sweetheart, I cherish every little moment we spend together. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_084",
+    "text": "Good morning, my love, I am the luckiest person alive to call you mine. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_085",
+    "text": "Wake up, my love, your love makes the impossible feel within reach. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_086",
+    "text": "Rise and shine, my love, you are the calm in my storm and the spark in my spirit. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_087",
+    "text": "Morning, my darling, you are my favorite person to share quiet moments with. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_088",
+    "text": "Wake up, my love, your eyes hold more warmth than the morning sun. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_089",
+    "text": "Morning, my darling, your eyes hold more warmth than the morning sun. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_090",
+    "text": "Wake up, my love, I could spend forever getting lost in conversations with you. You are my favorite forever."
+  },
+  {
+    "id": "builtin_091",
+    "text": "Hello, beautiful soul, you are my today, my tomorrow, and all my someday. My heart is always yours."
+  },
+  {
+    "id": "builtin_092",
+    "text": "Good morning, my love, I love the way your eyes light up when you laugh. My heart is always yours."
+  },
+  {
+    "id": "builtin_093",
+    "text": "Rise and shine, sweetheart, you are the kind of beautiful that doesn't fade with time. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_094",
+    "text": "Rise and shine, my love, you are the best part of my every single day. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_095",
+    "text": "Good morning, sunshine, I fall for you a little more with every passing day. My heart is always yours."
+  },
+  {
+    "id": "builtin_096",
+    "text": "Morning, my darling, you make my heart feel braver just by holding my hand. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_097",
+    "text": "Hey there, gorgeous, your hugs feel like they were made just for me. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_098",
+    "text": "Wake up, beautiful, my heart still skips a beat whenever I think of you. You are my favorite forever."
+  },
+  {
+    "id": "builtin_099",
+    "text": "Hello, beautiful soul, I fall for you a little more with every passing day. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_100",
+    "text": "Wake up, beautiful, you are the missing piece I never knew I needed. You make my heart so happy."
+  },
+  {
+    "id": "builtin_101",
+    "text": "Good morning, sunshine, you are my favorite person to share quiet moments with. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_102",
+    "text": "Wake up, my love, your smile is the first sunrise I want to see every day. You are my favorite forever."
+  },
+  {
+    "id": "builtin_103",
+    "text": "Hey there, gorgeous, you are the love song I never get tired of hearing. My heart is always yours."
+  },
+  {
+    "id": "builtin_104",
+    "text": "Wake up, beautiful, being near you makes my whole world feel steadier. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_105",
+    "text": "Good morning, my heart, I am the luckiest person alive to call you mine. You are my favorite forever."
+  },
+  {
+    "id": "builtin_106",
+    "text": "Rise and shine, sweetheart, every day with you feels like a gift I never want to return. My heart is always yours."
+  },
+  {
+    "id": "builtin_107",
+    "text": "Wake up, my love, you make ordinary mornings feel like magic. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_108",
+    "text": "Wake up, beautiful, you are the reason I believe in love again and again. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_109",
+    "text": "Wake up, beautiful, you are the reason my smile reaches all the way to my eyes. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_110",
+    "text": "Rise and shine, my love, you make my heart feel braver just by holding my hand. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_111",
+    "text": "Good morning, my heart, I am thankful for you in ways I am still learning to say. You make my heart so happy."
+  },
+  {
+    "id": "builtin_112",
+    "text": "Hey there, gorgeous, you are the sweetest part of my whole story. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_113",
+    "text": "Rise and shine, sweetheart, you make ordinary mornings feel like magic. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_114",
+    "text": "Hey there, gorgeous, your love feels like it was written in the stars for me. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_115",
+    "text": "Wake up, beautiful, you make ordinary mornings feel like magic. You make my heart so happy."
+  },
+  {
+    "id": "builtin_116",
+    "text": "Good morning, my love, my heart still skips a beat whenever I think of you. You are my favorite forever."
+  },
+  {
+    "id": "builtin_117",
+    "text": "Hey there, gorgeous, I am the luckiest person alive to call you mine. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_118",
+    "text": "Rise and shine, sweetheart, being near you makes my whole world feel steadier. You are my favorite forever."
+  },
+  {
+    "id": "builtin_119",
+    "text": "Good morning, sunshine, you are my favorite adventure and my softest comfort. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_120",
+    "text": "Good morning, sunshine, you are the kind of beautiful that doesn't fade with time. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_121",
+    "text": "Hey there, gorgeous, I am thankful for you in ways I am still learning to say. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_122",
+    "text": "Good morning, my heart, you make my world brighter just by being in it. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_123",
+    "text": "Wake up, beautiful, you make my heart feel full in ways I cannot explain. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_124",
+    "text": "Hey there, gorgeous, your kindness makes the whole world a little softer. My heart is always yours."
+  },
+  {
+    "id": "builtin_125",
+    "text": "Wake up, my love, being with you feels like home, no matter where we are. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_126",
+    "text": "Rise and shine, sweetheart, you are the kind of beautiful that doesn't fade with time. You make my heart so happy."
+  },
+  {
+    "id": "builtin_127",
+    "text": "Good morning, my heart, you are my favorite person to share quiet moments with. My heart is always yours."
+  },
+  {
+    "id": "builtin_128",
+    "text": "Good morning, sunshine, being with you feels like home, no matter where we are. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_129",
+    "text": "Good morning, sunshine, you are my today, my tomorrow, and all my someday. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_130",
+    "text": "Good morning, sunshine, you are the best part of my every single day. You make my heart so happy."
+  },
+  {
+    "id": "builtin_131",
+    "text": "Rise and shine, my love, your kindness makes the whole world a little softer. You are my favorite forever."
+  },
+  {
+    "id": "builtin_132",
+    "text": "Rise and shine, my love, I treasure every little thing that makes you, you. My heart is always yours."
+  },
+  {
+    "id": "builtin_133",
+    "text": "Good morning, my love, you make ordinary mornings feel like magic. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_134",
+    "text": "Hey there, gorgeous, your heart is the warmest place I have ever called home. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_135",
+    "text": "Morning, my darling, you make my world brighter just by being in it. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_136",
+    "text": "Hey there, gorgeous, you turn ordinary days into stories worth telling. You are my favorite forever."
+  },
+  {
+    "id": "builtin_137",
+    "text": "Good morning, my heart, you are the love song I never get tired of hearing. You are my favorite forever."
+  },
+  {
+    "id": "builtin_138",
+    "text": "Good morning, my heart, your love is the warmest blanket on the coldest nights. You make my heart so happy."
+  },
+  {
+    "id": "builtin_139",
+    "text": "Wake up, beautiful, I could spend forever getting lost in conversations with you. You are my favorite forever."
+  },
+  {
+    "id": "builtin_140",
+    "text": "Good morning, my love, your love makes the impossible feel within reach. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_141",
+    "text": "Rise and shine, sweetheart, you make even silence feel comfortable and warm. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_142",
+    "text": "Rise and shine, my love, you are my favorite person to share quiet moments with. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_143",
+    "text": "Hey there, gorgeous, being with you feels like home, no matter where we are. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_144",
+    "text": "Good morning, my love, I am endlessly grateful that our paths crossed. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_145",
+    "text": "Good morning, my heart, your support means more to me than words can say. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_146",
+    "text": "Rise and shine, sweetheart, you are the calm in my storm and the spark in my spirit. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_147",
+    "text": "Hey there, gorgeous, your presence alone makes everything feel okay. You are my favorite forever."
+  },
+  {
+    "id": "builtin_148",
+    "text": "Hello, beautiful soul, every day with you feels like a gift I never want to return. My heart is always yours."
+  },
+  {
+    "id": "builtin_149",
+    "text": "Wake up, my love, I am the luckiest person alive to call you mine. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_150",
+    "text": "Hey there, gorgeous, you are the best part of my every single day. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_151",
+    "text": "Wake up, my love, your laugh is my favorite sound in the whole world. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_152",
+    "text": "Wake up, beautiful, I fell asleep thinking of you and woke up smiling. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_153",
+    "text": "Good morning, my heart, I fell asleep thinking of you and woke up smiling. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_154",
+    "text": "Wake up, beautiful, every memory with you is one I hold close to my heart. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_155",
+    "text": "Hey there, gorgeous, you are the calm in my storm and the spark in my spirit. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_156",
+    "text": "Hey there, gorgeous, you are the best part of my every single day. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_157",
+    "text": "Good morning, my heart, you are the reason my smile reaches all the way to my eyes. You are my favorite forever."
+  },
+  {
+    "id": "builtin_158",
+    "text": "Hey there, gorgeous, your eyes hold more warmth than the morning sun. My heart is always yours."
+  },
+  {
+    "id": "builtin_159",
+    "text": "Rise and shine, sweetheart, your love makes the impossible feel within reach. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_160",
+    "text": "Wake up, beautiful, you make even silence feel comfortable and warm. My heart is always yours."
+  },
+  {
+    "id": "builtin_161",
+    "text": "Morning, my darling, you are the calm in my storm and the spark in my spirit. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_162",
+    "text": "Good morning, my heart, you are the reason my smile reaches all the way to my eyes. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_163",
+    "text": "Good morning, my heart, being with you feels like home, no matter where we are. You make my heart so happy."
+  },
+  {
+    "id": "builtin_164",
+    "text": "Rise and shine, my love, you make ordinary mornings feel like magic. My heart is always yours."
+  },
+  {
+    "id": "builtin_165",
+    "text": "Good morning, my love, you make even silence feel comfortable and warm. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_166",
+    "text": "Hello, beautiful soul, your laugh is my favorite sound in the whole world. You are my favorite forever."
+  },
+  {
+    "id": "builtin_167",
+    "text": "Rise and shine, sweetheart, I treasure every little thing that makes you, you. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_168",
+    "text": "Hello, beautiful soul, your support means more to me than words can say. I love you more than yesterday and less than tomorrow."
+  },
+  {
+    "id": "builtin_169",
+    "text": "Rise and shine, my love, I treasure every little thing that makes you, you. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_170",
+    "text": "Wake up, beautiful, you are the kind of beautiful that doesn't fade with time. You are my favorite forever."
+  },
+  {
+    "id": "builtin_171",
+    "text": "Morning, my darling, you are the sunrise after my longest, darkest nights. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_172",
+    "text": "Hello, beautiful soul, every memory with you is one I hold close to my heart. You make my heart so happy."
+  },
+  {
+    "id": "builtin_173",
+    "text": "Hey there, gorgeous, you are the kind of beautiful that doesn't fade with time. You make my heart so happy."
+  },
+  {
+    "id": "builtin_174",
+    "text": "Wake up, beautiful, you are my favorite person to share quiet moments with. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_175",
+    "text": "Wake up, my love, your heart is the warmest place I have ever called home. My heart is always yours."
+  },
+  {
+    "id": "builtin_176",
+    "text": "Hello, beautiful soul, I love the way your eyes light up when you laugh. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_177",
+    "text": "Hey there, gorgeous, I cherish every little moment we spend together. You are my favorite forever."
+  },
+  {
+    "id": "builtin_178",
+    "text": "Hey there, gorgeous, you make even silence feel comfortable and warm. My heart is always yours."
+  },
+  {
+    "id": "builtin_179",
+    "text": "Good morning, my heart, you are the reason my smile reaches all the way to my eyes. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_180",
+    "text": "Morning, my darling, you make ordinary mornings feel like magic. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_181",
+    "text": "Wake up, beautiful, you make even the hardest days feel a little lighter. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_182",
+    "text": "Morning, my darling, your love feels like it was written in the stars for me. You are my favorite forever."
+  },
+  {
+    "id": "builtin_183",
+    "text": "Wake up, my love, you are the kind of beautiful that doesn't fade with time. I can't wait to make more memories with you today."
+  },
+  {
+    "id": "builtin_184",
+    "text": "Morning, my darling, I am the luckiest person alive to call you mine. You make my heart so happy."
+  },
+  {
+    "id": "builtin_185",
+    "text": "Good morning, sunshine, my heart still skips a beat whenever I think of you. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_186",
+    "text": "Wake up, beautiful, I am endlessly grateful that our paths crossed. You are my favorite forever."
+  },
+  {
+    "id": "builtin_187",
+    "text": "Good morning, sunshine, you are my favorite adventure and my softest comfort. My heart is always yours."
+  },
+  {
+    "id": "builtin_188",
+    "text": "Wake up, my love, your love feels like sunshine even on cloudy days. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_189",
+    "text": "Good morning, my heart, I cherish every little moment we spend together. My heart is always yours."
+  },
+  {
+    "id": "builtin_190",
+    "text": "Hello, beautiful soul, you are my favorite adventure and my softest comfort. I'll never stop choosing you."
+  },
+  {
+    "id": "builtin_191",
+    "text": "Hey there, gorgeous, you are the sweetest part of my whole story. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_192",
+    "text": "Rise and shine, my love, your love feels like sunshine even on cloudy days. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_193",
+    "text": "Hello, beautiful soul, your eyes hold more warmth than the morning sun. Here's to another beautiful day loving you."
+  },
+  {
+    "id": "builtin_194",
+    "text": "Good morning, my love, you are the kind of beautiful that doesn't fade with time. My heart is always yours."
+  },
+  {
+    "id": "builtin_195",
+    "text": "Hello, beautiful soul, you are the melody that plays softly in my heart. Thank you for being exactly who you are."
+  },
+  {
+    "id": "builtin_196",
+    "text": "Hey there, gorgeous, you are the calm in my storm and the spark in my spirit. Forever grateful that you're mine."
+  },
+  {
+    "id": "builtin_197",
+    "text": "Hello, beautiful soul, you are my favorite hello and my hardest goodbye. You are loved beyond measure, today and always."
+  },
+  {
+    "id": "builtin_198",
+    "text": "Good morning, sunshine, you are my today, my tomorrow, and all my someday. You make my heart so happy."
+  },
+  {
+    "id": "builtin_199",
+    "text": "Wake up, my love, my heart still skips a beat whenever I think of you. My heart is always yours."
+  },
+  {
+    "id": "builtin_200",
+    "text": "Morning, my darling, you are the best part of my every single day. My heart is always yours."
+  }
+]
